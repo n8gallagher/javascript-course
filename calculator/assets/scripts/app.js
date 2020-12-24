@@ -1,0 +1,3 @@
+let currentResult = 0;
+
+
