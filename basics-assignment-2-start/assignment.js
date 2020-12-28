@@ -15,3 +15,10 @@ alert2();
 alert(stringCombiner(nameVariable1, nameVariable2, nameVariable3));
 
 task3Element.addEventListener('click', alert1);
+
+
+// Where are the boobs on this thing?
+
+
+// come any closer and i’ll peg you in the eye!
+
